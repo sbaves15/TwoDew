@@ -14,10 +14,10 @@
 
 ## Features
 
-**Task Management:** Add, edit, delete, and update tasks.
-**Task Prioritization:** Mark tasks as important.
-**Data Persistence:** Tasks are stored locally via Room db to retain data across app restarts.
-**Tests:** There are tests for both the viewmodel functions and database functions
+- **Task Management:** Add, edit, delete, and update tasks.
+- **Task Prioritization:** Mark tasks as important.
+- **Data Persistence:** Tasks are stored locally via Room db to retain data across app restarts.
+- **Tests:** There are tests for both the viewmodel functions and database functions
 
 ## Potential Improvements
 
